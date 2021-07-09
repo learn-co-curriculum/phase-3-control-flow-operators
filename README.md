@@ -18,8 +18,10 @@ Using these control flow constructs means we're taking our code out of the
 normal flow of execution (top-to-bottom, one line at a time) and instead
 providing some instructions to change that order. As you've surely seen in
 JavaScript, conditional statements and loops are critical for writing
-applications. In the next series of lessons, we'll explore common approaches to
-control flow, and learn some new syntax that is unique to Ruby.
+applications.
+
+In the next series of lessons, we'll explore common approaches to control flow,
+and learn some new syntax that is unique to Ruby.
 
 ## Conditional Operators
 
