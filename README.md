@@ -40,10 +40,10 @@ compare two values:
 - `==`: equal to
 - `!=`: not equal to
 
-Unlike in JavaScript, the `==` in Ruby **will not coerce strings to numbers**
-before comparing them, or perform some of the other type coercions that
-JavaScript does. For example, in JavaScript, using the `==` operator can lead to
-some strange behavior:
+Unlike in JavaScript, the `==` method in Ruby **will not coerce strings to
+numbers** before comparing them, or perform some of the other type coercions
+that JavaScript does. For example, in JavaScript, using the `==` operator can
+lead to some strange behavior:
 
 ```js
 "1" == 1
