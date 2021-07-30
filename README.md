@@ -167,7 +167,7 @@ end
 ## Conclusion
 
 In the coming lessons, we'll be writing some methods that use control flow, so
-make sure to keep these methods for comparing data in mind &mdash; they'll be
+make sure to keep these methods for comparing data in mind — they'll be
 very important to your ability to write conditional logic and looping code
 successfully!
 
