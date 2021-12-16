@@ -27,7 +27,7 @@ and learn some new syntax that is unique to Ruby.
 
 In general, using control flow in any language means running certain code **if
 some condition is met**. That means that in order to use control flow
-effectively, it's important to be know how to use conditional operators to
+effectively, it's important to know how to use conditional operators to
 compare values.
 
 ## Comparison Operators
@@ -100,7 +100,7 @@ in**! The code above is equivalent to the following method call:
 1.0.==(1)
 ```
 
-Because Ruby is heavily favors object-orientation as a language, you'll find
+Because Ruby heavily favors object-orientation as a language, you'll find
 that many features other languages would define as operators (like `==`, `>`,
 even math operators like `+` and `*`) are actually methods. If you're unsure
 what these methods do in a particular scenario, check the class definition in
